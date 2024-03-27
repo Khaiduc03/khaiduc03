@@ -1,54 +1,49 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-   
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<h1 align="center"><b>Hi , I'm Mai Hoang Duc Khai </b><img src="./assets/hi.gif" width="35"></h1>
 
----
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&pause=1000&color=F7DB1A&center=true&vCenter=true&width=1080&height=24&lines=Life+is+a+journey+of+self-discovery+and+endless+possibilities.+;Every+person+has+a+unique+story+waiting+to+be+told.;The+beauty+of+life+lies+in+embracing+both+joys+and+challenges" alt="Typing SVG" /></a>
+</p>
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+## <picture><img src = "./assets/about_me.gif" width =30px>**About me**</picture>
 
-- :seedling: Exploring Technical Content Writing.
+- 👋 Hi, I’m Mai Hoang Duc Khai
+- 💼 I'm a Fullstack Developer in FPT Polytechnic
+- 💬 Talk to me about freelancing opportunities in the mobile app/web app
+- 👯 I’m looking to collaborate on backend/frontend software engineering projects
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<br>
+
+## Skill Set
+
+These are some of the major technologies that I use or have worked on in the past:
+
+**Basic**
+
+<img src="https://skillicons.dev/icons?i=html,css,figma&perline=8&theme=light" alt="My Skills" />
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,typescript,java,golang&perline=8&theme=light" alt="My Skills" />
+
+**Libraries and Frameworks**
+
+<img src="https://skillicons.dev/icons?i=redux,tailwind,react,express,nextjs,atom,nestjs&perline=8&theme=light" alt="My Skills" />
+
+**Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=firebase,googlecloud,docker,nodejs,gradle&perline=8&theme=light" alt="My Skills" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8&theme=light" alt="My Skills" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,postman,linux,git,github&perline=8&theme=light" alt="My Skills" />
+
+## Some of my stats :bar_chart:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vixyninja&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React native" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/devicon/go-original.svg?size=148&color=030202" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://cloudinary-marketing-res.cloudinary.com/image/upload/w_320,h_223,c_pad,b_auto:predominant,fl_preserve_transparency/v1672871595/stacked_logo_blue.jpg?_s=public-apps" title="Cloudinary" alt="Cloudinary" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-</div>
-
+- :seedling: Good luck!
