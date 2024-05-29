@@ -7,7 +7,6 @@
 ## <picture><img src = "./assets/about_me.gif" width =30px>**About me**</picture>
 
 - 👋 Hi, I’m Mai Hoang Duc Khai
-- 💼 I'm a Fullstack Developer in FPT Polytechnic
 - 💬 Talk to me about freelancing opportunities in the mobile app/web app
 - 👯 I’m looking to collaborate on backend/frontend software engineering projects
 
