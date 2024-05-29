@@ -23,7 +23,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,typescript,java,golang&perline=8&theme=light" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=js,typescript,golang&perline=8&theme=light" alt="My Skills" />
 
 **Libraries and Frameworks**
 
