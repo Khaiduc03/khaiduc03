@@ -10,11 +10,11 @@
 
 <br>
 
-## Skill Set
+<!-- ## Skill Set
 
 These are some of the major technologies that I use or have worked on in the past:
 
-**Basic**
+**Basic** -->
 
 <!-- <img src="https://skillicons.dev/icons?i=html,css,figma&perline=8&theme=light" alt="My Skills" />
 
